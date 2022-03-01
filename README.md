@@ -1,2 +1,3 @@
 # tour-plan
-Project Oleksii
+
+Oleksii Savenko
